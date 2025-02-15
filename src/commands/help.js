@@ -4,7 +4,7 @@ export default {
   config: {
     name: 'help',
     version: '2.5',
-    author: 'Frank X Asta',
+    author: 'your mother',
     aliases: ['h'],
     cooldown: 5,
     permission: 0,
@@ -23,7 +23,7 @@ export default {
 
       if (mode === 'category') {
         const categories = new Map();
-        let output = `┏━━『 𝗔𝗙 𝗡𝗘𝗫𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 』━━━┓\n┃\n`;
+        let output = `┏━━『 Sophie princy cmds  』━━━┓\n┃\n`;
 
         commands.forEach((cmd, name) => {
           const category = (cmd.config?.category || 'General').toString();
