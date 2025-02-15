@@ -1,12 +1,12 @@
 export default {
-  "botName": "Nexus",
+  "botName": "prince's 🦆",
   "prefix": ".",
-  "nickname": "Nexusbot",
+  "nickname": "princy",
   "adminIds": [
-    "100062160914296",
-    "61557780285734",
-    "100075528791428",
-    "61571509256532"
+    "61557606879019",
+    "",
+    "",
+    ""
   ],
   "facebookAccount": {
     "email": "bultelakku@gufum.com",
